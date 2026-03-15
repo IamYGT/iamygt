@@ -1,13 +1,55 @@
-# 💫 About Me:
-Hello, I am Ercan Yiğit, I am 27 years old and I live in Kosovo. The path I entered at the age of 13 trying to write a plugin for a game has turned me into an entrepreneurial software developer and helped me acquire a broad skill set.<br><br>In 2016, I gained front-end software skills with Memsidea company we founded. Winning the Google Developer Scholarship in 2017 was a milestone in my career. This process allowed me both to focus on machine learning and gain experience in Google technologies such as Flutter and Firebase. This experience further strengthened my wide skill set and solidified my position in the industry.<br><br>These skills played a significant role in the formation of leading brands based on automotive service software such as ProEcuPortal and KingEcu. Moreover, with my company YGT Labs, which is based on Flutter technology at its core and focuses on mobile solutions, we are following the latest trends and providing superior service to our customers.<br><br>In addition to my busy work life, I also make time for my personal interests. I am passionately attached to motorsports, especially Formula 1 is indispensable for me. I also enjoy doing sports, exploring new places, and meeting different cultures. These activities rejuvenate me mentally and help me to enrich with new cultures.<br><br>Throughout this journey, my self-belief and my ambition to achieve new successes have never diminished. As a software developer and entrepreneur, I am always open to new successes and personal development opportunities in my life. 🚀🌍💻
+# Ercan Yigit
 
+Building multilingual SaaS products, internal tools, and automotive software platforms.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MjJYYjqAAs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ercanygt1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamygt/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamygt) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ercanygt1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamygt_dev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/iamygt) 
+I work across product, engineering, and delivery. My recent work spans Next.js, Laravel, Go, Python, PostgreSQL, AI integrations, and self-hosted infrastructure.
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## Current Focus
 
----
-[![](https://visitcount.itsvg.in/api?id=iamygt&icon=0&color=3)](https://visitcount.itsvg.in)
+- Building ECU-focused customer portals and internal operations tools
+- Shipping multilingual Next.js products with strong SEO foundations
+- Developing Go and Python services for automation, integrations, and data workflows
+- Combining AI features with real business operations instead of demo-only experiments
 
+## Featured Public Projects
+
+- [ygtwa](https://github.com/IamYGT/ygtwa) - Go-based self-hosted WhatsApp Web REST API and MCP bridge
+- [cursor-fix-scripts](https://github.com/IamYGT/cursor-fix-scripts) - PowerShell utilities for common Cursor IDE and Gemini API issues
+- [ygtlabs_sablon_next](https://github.com/IamYGT/ygtlabs_sablon_next) - Public Next.js starter and base project structure
+
+## What I Build Privately
+
+- B2B SaaS platforms for ECU tuning workflows
+- Laravel admin panels and operational back offices
+- AI-assisted content systems and internal automation pipelines
+- Vehicle data APIs, scraping pipelines, and structured product flows
+
+## Core Stack
+
+- Frontend: Next.js, React, TypeScript, Tailwind CSS
+- Backend: Laravel, Node.js, Go, Python
+- Data: PostgreSQL, Prisma, MySQL, SQLite
+- Infra: Linux, Nginx, Plesk, Docker, Cloudflare
+- AI: Gemini-based content and workflow integrations
+
+## Working Style
+
+- Fast execution with end-to-end ownership
+- Product-minded engineering
+- Strong preference for practical systems that reach production
+- Comfortable moving between UI, backend, database, infra, and automation layers
+
+## Open To
+
+- Remote full-stack roles
+- Contract product engineering work
+- SaaS, automation, AI tooling, and platform projects
+
+## Contact
+
+- Website: https://www.memsidea.com/
+- LinkedIn: https://linkedin.com/in/iamygt/
+- X: https://twitter.com/iamygt_dev
+- Medium: https://medium.com/@iamygt
+
+![Profile views](https://komarev.com/ghpvc/?username=IamYGT&label=Profile%20views&color=0e75b6&style=flat)
