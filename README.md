@@ -1,8 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f2027,80:203a43,100:2c5364&height=230&section=header&text=Ercan+Yigit&fontSize=68&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Tech+Entrepreneur+and+Full-Stack+Developer&descAlignY=58&descSize=20&descColor=BC8CFF)
+<img src="https://raw.githubusercontent.com/IamYGT/iamygt/main/assets/logo.png" width="420" alt="YGT Logo" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=60&lines=Tech+Entrepreneur+%26+Builder+%F0%9F%9A%80;CEO+%40+YGT+Labs+%7C+Memsidea+Co-Founder;Next.js+%7C+Laravel+%7C+Go+%7C+Flutter+%7C+Python;190%2B+Repos+%7C+1000%2B+Commits+Per+Year;Building+ECU+Tuning+SaaS+%E2%80%94+24+Languages)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=60&lines=Tech+Entrepreneur+%26+Builder+%F0%9F%9A%80;CEO+%40+YGT+Labs+%7C+Memsidea+Co-Founder;Next.js+%7C+Laravel+%7C+Go+%7C+Flutter+%7C+Python;190%2B+Repos+%7C+1000%2B+Commits+Per+Year;Building+ECU+Tuning+SaaS+in+24+Languages)](https://git.io/typing-svg)
 
 </div>
 
@@ -123,9 +125,9 @@ I started coding at **13**, won a **Google Developer Scholarship** in 2017, and 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamYGT/iamygt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamYGT/iamygt/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/IamYGT/iamygt/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamYGT/iamygt/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamYGT/iamygt/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/IamYGT/iamygt/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -138,5 +140,3 @@ I started coding at **13**, won a **Google Developer Scholarship** in 2017, and 
 [![GitHub followers](https://img.shields.io/github/followers/IamYGT?label=Followers&style=social)](https://github.com/IamYGT)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,40:203a43,80:0f2027,100:0D1117&height=130&section=footer)
