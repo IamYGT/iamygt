@@ -64,7 +64,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamYGT&layout=compact&hide_border=true&title_color=00A884&text_color=9f9f9f&bg_color=0d1117" width="400" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamYGT&layout=compact&hide_border=true&title_color=00A884&text_color=9f9f9f&bg_color=0d1117&hide=html,css,scss,less,javascript,dart,php,blade,jupyter%20notebook,c,c++,shell,makefile,cmake,smartymarketing,smarty&langs_count=3&custom_title=Top%20Languages" width="400" alt="Top Languages"/>
 </div>
 
 <br/>
