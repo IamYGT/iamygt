@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f2027,80:203a43,100:2c5364&height=230&section=header&text=Ercan%20Yi%C4%9Fit&fontSize=68&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=IamYGT%20%E2%80%94%20Tech%20Entrepreneur%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=BC8CFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f2027,80:203a43,100:2c5364&height=230&section=header&text=Ercan+Yigit&fontSize=68&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Tech+Entrepreneur+and+Full-Stack+Developer&descAlignY=58&descSize=20&descColor=BC8CFF)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=60&lines=Tech+Entrepreneur+%26+Builder+%F0%9F%9A%80;CEO+%40+YGT+Labs+%7C+Memsidea+Co-Founder;Next.js+%7C+Laravel+%7C+Go+%7C+Flutter+%7C+Python;190%2B+Repos+%7C+1000%2B+Commits+Per+Year;Building+ECU+Tuning+SaaS+%E2%80%94+24+Languages)](https://git.io/typing-svg)
 
