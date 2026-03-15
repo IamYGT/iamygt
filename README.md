@@ -17,17 +17,17 @@
 
 <br/>
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 About Me
 <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
     <td width="60%" valign="top" style="border: none;">
-      <blockquote><em>Geliştirmeyi, sorunları çözmeyi ve ölçeklenebilir sistemler tasarlamayı seviyorum. 13 yaşında başladığım bu tutkuyla dolu serüvende sürekli yeni şeyler öğrenmeye odaklıyım.</em></blockquote>
+      <blockquote><em>I love developing, solving problems, and designing scalable systems. In this passion-filled journey that started at the age of 13, I am constantly focused on learning new things.</em></blockquote>
       <ul>
-        <li>🔭 Şu anda <strong>SaaS ürünleri & web/mobil uygulamalar</strong> geliştiriyorum.</li>
-        <li>🌱 Aktif olarak <strong>Next.js, Laravel, Go ve Flutter</strong> ekosistemlerinde derinleşiyorum.</li>
-        <li>🏎️ Motor sporlarına, özellikle <strong>Formula 1</strong>'e tutkuyla bağlıyım.</li>
-        <li>💬 Bana <strong>sistem mimarisi, mobil/web çözümleri ve açık kaynak</strong> hakkında yazabilirsiniz.</li>
-        <li>⚡ <strong>27 yaşındayım ve Kosova'da (🇽🇰) yaşıyorum.</strong></li>
+        <li>🔭 Currently building <strong>SaaS products & web/mobile applications</strong>.</li>
+        <li>🌱 Actively diving deeper into <strong>Next.js, Laravel, Go, and Flutter</strong> ecosystems.</li>
+        <li>🏎️ Passionate about motorsports, especially <strong>Formula 1</strong>.</li>
+        <li>💬 Ask me about <strong>system architecture, mobile/web solutions, and open source</strong>.</li>
+        <li>⚡ <strong>27 years old, living in Kosovo (🇽🇰)</strong>.</li>
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-### 💻 Teknolojilerim
+### 💻 Tech Stack
 <div align="center">
   <p><b>Frontend & Mobile</b></p>
   <a href="https://skillicons.dev">
@@ -57,19 +57,7 @@
 
 <br/>
 
-### 📊 GitHub İstatistikleri
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamYGT&show_icons=true&hide_border=true&title_color=00A884&icon_color=00A884&text_color=9f9f9f&bg_color=0d1117" height="192" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamYGT&hide_border=true&title_color=00A884&icon_color=00A884&text_color=9f9f9f&bg_color=0d1117" height="192" alt="GitHub Streak"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamYGT&layout=compact&hide_border=true&title_color=00A884&text_color=9f9f9f&bg_color=0d1117&hide=html,css,scss,less,javascript,dart,php,blade,jupyter%20notebook,c,c++,shell,makefile,cmake,smartymarketing,smarty&langs_count=3&custom_title=Top%20Languages" width="400" alt="Top Languages"/>
-</div>
-
-<br/>
-
-### 🐍 Katkı Geçmişi (Contribution Snake)
+### 🐍 Contribution Graph
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamYGT/IamYGT/output/github-contribution-grid-snake-dark.svg">
@@ -80,5 +68,5 @@
 
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IamYGT&color=00A884&style=flat-square&label=Profil+Ziyareti" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=IamYGT&color=00A884&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
