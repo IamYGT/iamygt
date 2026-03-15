@@ -57,7 +57,21 @@
 
 <br/>
 
-### 🐍 Contribution Graph
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamYGT&bg_color=0d1117&color=00A884&line=00A884&point=FFFFFF&area=true&area_color=00A884&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+### 🔥 Contribution Heatmap
+<div align="center">
+  <img src="https://ghchart.rshah.org/00A884/IamYGT" alt="GitHub Contribution Heatmap" width="100%"/>
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamYGT/IamYGT/output/github-contribution-grid-snake-dark.svg">
@@ -67,6 +81,38 @@
 </div>
 
 <br/>
+
+### 🎵 Spotify — Now Playing
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kgm4ra4bebrxfnuexkzlwrshki&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kgm4ra4bebrxfnuexkzlwrshki&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00A884&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+<br/>
+
+### ⏱️ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins  ████████████░░░░░░░░  48.2%
+Go           6 hrs 15 mins   █████░░░░░░░░░░░░░░░  24.1%
+Python       3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░  14.5%
+PHP          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░   8.4%
+Dart         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░   4.8%
+```
+<!--END_SECTION:waka-->
+
+<br/>
+
+### 💡 Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson" alt="Dev Quote"/>
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IamYGT&color=00A884&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
