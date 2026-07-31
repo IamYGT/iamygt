@@ -1,0 +1,70 @@
+name: Update Private Repository Count
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: private-repo-count
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Count private repositories
+        id: count
+        env:
+          GH_TOKEN: ${{ secrets.PRIVATE_REPO_COUNT_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          count="$(
+            gh api --method GET --paginate --slurp /user/repos \
+              -f affiliation=owner \
+              -f visibility=all \
+              -f per_page=100 \
+            | jq 'add | map(select(.private == true)) | length'
+          )"
+
+          [[ "$count" =~ ^[0-9]+$ ]]
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+
+      - name: Refresh badge data
+        env:
+          PRIVATE_REPO_COUNT: ${{ steps.count.outputs.count }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          jq -n \
+            --arg message "$PRIVATE_REPO_COUNT" \
+            '{
+              schemaVersion: 1,
+              label: "Private repositories",
+              message: $message,
+              color: "6f42c1"
+            }' > assets/private-repo-count.json
+
+          date -u +'%Y-%m-%dT%H:%M:%SZ' > assets/private-repo-count.updated-at
+
+      - name: Commit refreshed count
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/private-repo-count.json assets/private-repo-count.updated-at
+          git commit -m "chore(profile): refresh private repository count"
+          git push

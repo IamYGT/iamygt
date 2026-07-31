@@ -72,6 +72,12 @@ I started coding at **13**, won a **Google Developer Scholarship** in 2017, and 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+![Private repositories](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FIamYGT%2Fiamygt%2Fmain%2Fassets%2Fprivate-repo-count.json&style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
+
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamYGT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamYGT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css" />
 </div>
