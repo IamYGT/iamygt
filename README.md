@@ -18,6 +18,11 @@ I build practical developer tools and production SaaS. I’m the CEO of **YGT La
 
 [**cursor-fix-scripts**](https://github.com/IamYGT/cursor-fix-scripts) — experimental PowerShell diagnostics and local repair scripts for selected Cursor IDE issues on Windows.
 
+## Recent upstream contributions
+
+- [**Microsoft PowerToys #49658**](https://github.com/microsoft/PowerToys/pull/49658) — submitted a CmdPal fix that preserves the default browser profile when opening web searches.
+- [**WhiskeySockets/Baileys #2749**](https://github.com/WhiskeySockets/Baileys/pull/2749) — submitted a pre-login message acknowledgement crash fix with regression coverage.
+
 ## Current focus
 
 - Shipping maintainable tools that solve concrete developer problems
