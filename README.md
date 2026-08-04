@@ -6,7 +6,9 @@
 
 # Ercan Yigit
 
-I build practical developer tools and production SaaS. I’m the CEO of **YGT Labs**, working across automation, integrations, and reliable web products.
+**YGT — You Got This.**
+
+I build practical developer tools and production SaaS. I’m the CEO of **YGT Labs AI**, working across automation, integrations, and reliable web products.
 
 ## What I work on
 
