@@ -10,6 +10,7 @@ I ship production software with teams of AI coding agents (Claude Code, Codex, D
 - **Agent harness**: hook dispatcher and a 25-script tooling suite (141 tests) for model routing, cost control and safe pushes across three agent platforms.
 - **[Heyserver](https://github.com/IamYGT/heyserver)**: open-source Linux server management in Go, with outbound-only fleet agents, a web/CLI terminal and signed releases.
 - **TunerStack ECU-AI**: LLM-assisted platform for automotive calibration, with identity parsers for 9 ECU families, a corpus pipeline that diffs original and tuned files, and a self-hosted LLM broker (Laravel 13, Python, Node.js).
+- **[ECU Tuning Portal](https://ecutuningportal.com)**: white-label chiptuning portal software for tuning businesses, with 70 customer projects across at least 12 countries.
 
 ## Stack
 
