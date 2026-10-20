@@ -1,44 +1,20 @@
-<div align="center">
+# Ercan Yiğit
 
-<img src="https://raw.githubusercontent.com/IamYGT/iamygt/main/assets/logo.png" width="360" alt="YGT Labs logo" />
+**AI-native full-stack engineer · agent harness engineer**
 
-</div>
+I ship production software with teams of AI coding agents (Claude Code, Codex, Devin) and build the harness that keeps them fast, cheap and correct: model routing, cost measurement, reviewer gates and test-first loops.
 
-# Ercan Yigit
+## Recent work
 
-**YGT — You Got This.**
+- **[Hegemonia](https://hegemonia.gg)**: cross-platform multiplayer strategy game (Flutter + Laravel/PostgreSQL). First commit to Google Play and the Microsoft Store in 40 days: 7,366 commits, 2,918 test files, 11 languages.
+- **Agent harness**: hook dispatcher and a 25-script tooling suite (141 tests) for model routing, cost control and safe pushes across three agent platforms.
+- **[Heyserver](https://github.com/IamYGT/heyserver)**: open-source Linux server management in Go, with outbound-only fleet agents, a web/CLI terminal and signed releases.
+- **TunerStack ECU-AI**: LLM-assisted platform for automotive calibration, with identity parsers for 9 ECU families, a corpus pipeline that diffs original and tuned files, and a self-hosted LLM broker (Laravel 13, Python, Node.js).
 
-I build practical developer tools and production SaaS. I’m the CEO of **YGT Labs AI**, working across automation, integrations, and reliable web products.
+## Stack
 
-## What I work on
+Flutter · Laravel/PHP · PostgreSQL · Go · Python · TypeScript · C#
 
-- **Developer tools:** PowerShell automation, IDE workflows, and focused utilities that remove recurring friction.
-- **Production SaaS:** customer-facing web products, multi-tenant systems, and operational tooling.
-- **Engineering:** TypeScript, Laravel/PHP, Go, Python, PostgreSQL, and cloud delivery.
+## Contact
 
-## Featured project
-
-[**cursor-fix-scripts**](https://github.com/IamYGT/cursor-fix-scripts) — experimental PowerShell diagnostics and local repair scripts for selected Cursor IDE issues on Windows.
-
-## Recent upstream work
-
-- [**WhiskeySockets/Baileys #2749**](https://github.com/WhiskeySockets/Baileys/pull/2749) — submitted a pre-login message acknowledgement crash fix with regression coverage.
-- [**WhiskeySockets/Baileys #2739**](https://github.com/WhiskeySockets/Baileys/issues/2739#issuecomment-5204043955) — reproduced and documented the LID/PN alias edge case affecting quoted-message context.
-- [**Microsoft PowerToys #39866**](https://github.com/microsoft/PowerToys/issues/39866) — documented browser-profile behavior and historical compatibility constraints after reviewing the related PR.
-
-## Current focus
-
-- Shipping maintainable tools that solve concrete developer problems
-- Building SaaS with clear operational boundaries
-- Sharing useful fixes and implementation notes through GitHub
-
-## Websites
-
-- [iamygt.dev](https://iamygt.dev) — personal site
-- [ECU Tuning Portal](https://ecutuningportal.com) — production automotive SaaS
-
-## Collaborate
-
-For bug reports, ideas, or contributions, open an issue or pull request in the relevant repository. For broader work, use the contact path on [iamygt.dev](https://iamygt.dev).
-
-Follow for practical developer tools, production SaaS work, and open-source fixes.
+Open to part-time remote contracts: hello@ygtlabs.ai · [LinkedIn](https://www.linkedin.com/in/iamygt/) · [ygtlabs.ai](https://ygtlabs.ai)
