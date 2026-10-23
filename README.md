@@ -18,4 +18,4 @@ Flutter · Laravel/PHP · PostgreSQL · Go · Python · TypeScript · C#
 
 ## Contact
 
-Open to part-time remote contracts: hello@ygtlabs.ai · [LinkedIn](https://www.linkedin.com/in/iamygt/) · [ygtlabs.ai](https://ygtlabs.ai)
+Open to full-time remote roles and long-term contracts: hello@ygtlabs.ai · [LinkedIn](https://www.linkedin.com/in/iamygt/) · [ygtlabs.ai](https://ygtlabs.ai)
